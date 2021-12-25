@@ -1,0 +1,140 @@
+#header{
+    color:rgb(2, 26, 14);
+    font-family: cursive;
+    font-variant: small-caps;
+    font-size: 50px;
+    font-style: inherit;
+    padding-top: 100px;
+    font-weight: 900;
+    text-align: center;
+}
+
+.img1{
+    margin:auto;
+    margin-bottom: 100px;
+    margin-left: 250px;
+    width:800px;
+    height: 500px;
+    border: 10px solid red;
+    border-radius: 5px;
+    
+
+}
+
+.imgone{
+
+    margin:auto;
+    margin-bottom: 100px;
+    margin-left: 250px;    
+    width:800px;
+    height: 500px;
+    border: 10px solid red;
+    border-radius: 5px;
+}
+
+.imgtwo{
+
+    margin:auto;
+    margin-bottom: 100px;
+    margin-left: 250px;
+    width:800px;
+    height: 500px;
+    border: 10px solid red;
+    border-radius: 5px;        
+}
+
+.imgthree{
+    
+    margin:auto;
+    margin-bottom: 100px;
+    margin-left: 250px;  
+    width:800px;
+    height: 500px;
+    border: 10px solid red;
+    border-radius: 5px;  
+
+}
+
+.imgfour{
+    
+    margin:auto;
+    margin-bottom: 100px;
+    margin-left: 250px;  
+    width:800px;
+    height: 500px;
+    border: 10px solid red;
+    border-radius: 5px;  
+
+}
+
+.imgfive{
+    
+    margin:auto;
+    margin-bottom: 100px;
+    margin-left: 250px;  
+    width:800px;
+    height: 500px;
+    border: 10px solid red;
+    border-radius: 5px;   
+}
+.imgsix{
+    
+    margin:auto;
+    margin-bottom: 100px;
+    margin-left: 250px;  
+    width:800px;
+    height: 500px;
+    border: 10px solid red;
+    border-radius: 5px;   
+
+}
+
+.imgseven{
+    
+    margin:auto;
+    margin-bottom: 100px;
+    margin-left: 250px;  
+    width:800px;
+    height: 500px;
+    border: 10px solid red;
+    border-radius: 5px;   
+}
+
+.imgeight{
+    margin:auto;
+    margin-bottom: 100px;
+    margin-left: 250px;  
+    width:800px;
+    height: 500px;
+    border: 10px solid red;
+    border-radius: 5px;   
+}
+
+.imgnine{
+
+    margin:auto;
+    margin-bottom: 100px;
+    margin-left: 250px; 
+    width:800px;
+    height: 500px;
+    border: 10px solid red;
+    border-radius: 5px;   
+
+}
+
+.imgten{
+    
+    margin:auto;
+    margin-bottom: 100px;
+    margin-left: 250px; 
+    width:800px;
+    height: 500px;
+    border: 10px solid red;
+    border-radius: 5px;   
+
+}
+
+.new{
+    background-image: linear-gradient(to right, #a8d442 , #55eb41 , #2ac8d3 , #c2a69b , #b14fa0);
+    font-size: 25px;
+}

@@ -1,0 +1,317 @@
+.header{
+    box-sizing: border-box;
+    padding: 40px;
+    border : 7px solid rgb(241, 107, 125);   
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    
+    color: rgb(61, 15, 170);
+    background-color: rgb(85, 216, 216);
+    text-align:center;
+    height: 500px;
+    width: 100%;
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    margin : auto;
+    background-image:url("https://4.bp.blogspot.com/-3gmiVbwygfU/Uq1thtLH3uI/AAAAAAAAALs/lcdVp0T3iRQ/s1600/vizag-wallpaper-visakhapatnam.jpg");
+    background-repeat: no-repeat;
+    background-size: 1490px 500px;
+    }
+.header:hover{
+    color: rgb(138, 12, 54);
+    
+            }
+
+     
+.header{
+    transition: transform.2s;
+       }
+
+.container{
+    position:relative;
+    width:100%;
+          }
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #71bcbe;
+    
+        }
+  
+  .container:hover .overlay {
+    opacity: 0.5;
+                             }
+.text{
+    color:rgb(5, 6, 63);
+    font-family: cursive;
+    font-variant: small-caps;
+    font-size: 40px;
+    font-style: inherit;
+    padding-top: 50px;
+     }
+
+
+
+
+
+.card{
+    text-align: left;
+    box-sizing: border-box;
+    border:7px solid blue;
+    padding: 5px;
+    margin-top: 70px;
+    width: 100%;
+    height:40%;
+    color:chartreuse ;
+    padding-bottom: 20px;
+    background-color: rgb(10, 10, 10);
+    
+    }
+
+
+#one{
+    color:black;
+    text-decoration-line: underline;
+    font-size: 30px;
+    }
+
+#two{
+    padding-top: 200px;
+    color: rgb(207, 155, 44);
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 900;
+    }
+.card:hover{
+    color: rgb(6, 61, 31);
+    
+        }
+
+#cardimg1{
+    background-image:url("https://www.fabhotels.com/blog/wp-content/uploads/2018/10/600x400-42.jpg");
+    background-repeat: no-repeat;
+    background-size: 800px 300px;
+    
+    
+        }
+
+#cardimg2{
+    background-image:url("https://thumbs.dreamstime.com/b/indian-mountain-railways-track-vizag-india-transport-nature-landscape-travel-vacation-holiday-concept-wallpaper-screen-saver-e-118136279.jpg");
+    background-repeat: no-repeat;
+    background-size: 800px 300px;
+
+         }
+
+#cardimg3{
+    background-image:url("https://image3.mouthshut.com/images/imagesp/925824843s.jpg");
+    background-repeat: no-repeat;
+    background-size: 800px 300px;
+    
+    
+}
+
+#cardimg4{
+    background-image:url("https://www.dolphinhotelsvizag.com/assets/img/gallery/hotel-brkfst.jpg");
+    background-repeat: no-repeat;
+    background-size: 800px 300px;
+    
+    
+}
+
+#cardimg5{
+    background-image:url("https://cms.qz.com/wp-content/uploads/2019/06/Submarine-e1561353756474.jpg?quality=75&strip=all&w=1600&h=900&crop=1");
+    background-repeat: no-repeat;
+    background-size: 800px 300px;
+    
+}
+
+
+#cardimg6{
+    background-image:url("https://wallpaperaccess.com/full/1729397.jpg");
+    background-repeat: no-repeat;
+    background-size: 800px 300px;
+    
+}
+
+#cardimg7{
+    background-image:url("https://lh3.googleusercontent.com/proxy/AZhtSfJNWyJXR2V4uU0GfhR1Ld7gnYBaYiNbttcdz7xr_XoVeMaOR-9gY-sO4Oa-nL38vOG0PpQnA_h-aOXr3blUthiFRCYPgQ");
+    background-repeat: no-repeat;
+    background-size: 800px 300px;
+    
+}
+
+#cardimg8{
+    background-image:url("https://assets.thehansindia.com/hansindia-bucket/thunderstorms_6725.jpg");
+    background-repeat: no-repeat;
+    background-size: 800px 300px;
+    
+}
+
+#cardtwoheading{
+    color:darkred;
+    text-decoration-line: underline;
+    font-size: 30px;
+}
+
+#cardtwopara{
+    padding-top: 200px;
+    color:lightblue;
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 900;
+}
+
+#cardthreeheading{
+    color:black;
+    text-decoration-line: underline;
+    font-size: 30px;
+}
+
+#cardthreepara{
+    padding-top: 200px;
+    color:cyan;
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 900;
+}
+
+#cardfourheading{
+    color:lawngreen;
+    text-decoration-line: underline;
+    font-size: 30px;
+    
+
+}
+#cardfourpara{
+    padding-top: 200px;
+    color:rgb(207, 26, 147);
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 900;
+
+}
+
+#cardfiveheading{
+    color:rgb(97, 7, 37);
+    text-decoration-line: underline;
+    font-size: 30px;
+}
+
+#cardfivepara{
+    padding-top: 200px;
+    color:rgb(68, 167, 192);
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 900;
+}
+
+
+
+#cardsixheading{
+    color:black;
+    text-decoration-line: underline;
+    font-size: 30px;
+}
+
+#cardsixpara{
+    padding-top: 200px;
+    color:rgb(158, 29, 184);
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 900;
+}
+
+#cardsevenheading{
+    color:whitesmoke;
+    text-decoration-line: underline;
+    font-size: 30px;
+}
+
+#cardsevenpara{
+    padding-top: 200px;
+    color:coral;
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 900;
+}
+
+
+#cardeightheading{
+    color:rgb(211, 82, 22);
+    text-decoration-line: underline;
+    font-size: 30px;
+}
+
+#cardeightpara{
+    padding-top: 200px;
+    color:teal;
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 900;
+}
+
+
+
+.card{
+    transition: transform.2s;
+    width: 100%;
+}
+
+.cardcontainer{
+    position:relative;
+    width:100%;
+}
+
+.cardoverlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #bccbcc;
+    
+}
+  
+  
+  .card:hover .cardoverlay {
+    opacity: 70%;
+    
+  }
+
+  .cardtext{
+    color:rgb(56, 12, 128);
+    font-family: cursive;
+    font-variant: small-caps;
+    font-size: 30px;
+    font-style: inherit;
+    padding-top: 100px;
+    font-weight: 900;
+    text-align: center;
+}
+
+
+.column {
+    float: left;
+    width: 40%;
+    padding: 50px;
+  }
+  
+  
+  .row::after {
+    
+    clear: both;
+    display: table;
+
+  }
+

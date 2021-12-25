@@ -1,0 +1,11 @@
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 779px;
+    border: 20px solid rgb(7, 99, 83);
+    border-radius: 20px;
+}
+body{
+    background-color: rgb(2, 2, 19);
+}

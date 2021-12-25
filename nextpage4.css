@@ -1,0 +1,133 @@
+#header{
+    color:rgb(48, 9, 110);
+    font-family: cursive;
+    font-variant: small-caps;
+    font-size: 30px;
+    font-style: inherit;
+    padding-top: 100px;
+    font-weight: 900;
+    text-align: center;
+}
+
+
+
+.img1{
+    margin:auto;
+    margin-bottom: 100px;
+    margin-left: 250px;
+    width:800px;
+    height: 500px;
+    border: 10px solid rgb(2, 21, 56) ;
+    border-radius: 5px;
+    
+
+}
+
+.img2{
+
+    margin:auto;
+    margin-bottom: 100px;
+    margin-left: 250px;    
+    width:800px;
+    height: 500px;
+    border: 10px solid rgb(2, 21, 56) ;
+    border-radius: 5px;
+}
+
+.img3{
+
+    margin:auto;
+    margin-bottom: 100px;
+    margin-left: 250px;        
+    width:800px;
+    height: 500px;
+    border: 10px solid rgb(2, 21, 56) ;
+    border-radius: 5px;
+}
+
+.img4{
+    
+    margin:auto;
+    margin-bottom: 100px;
+    margin-left: 250px;  
+    width:800px;
+    height: 500px;
+    border: 10px solid rgb(2, 21, 56) ;
+    border-radius: 5px;
+
+}
+
+.img5{
+    
+    margin:auto;
+    margin-bottom: 100px;
+    margin-left: 250px;  
+    width:800px;
+    height: 500px;
+    border: 10px solid rgb(2, 21, 56) ;
+    border-radius: 5px;
+
+}
+
+.img6{
+    
+    margin:auto;
+    margin-bottom: 100px;
+    margin-left: 250px;  
+    width:800px;
+    height: 500px;
+    border: 10px solid rgb(2, 21, 56) ;
+    border-radius: 5px;
+}
+.img7{
+    
+    margin:auto;
+    margin-bottom: 100px;
+    margin-left: 250px;  
+    width:800px;
+    height: 500px;
+    border: 10px solid rgb(2, 21, 56) ;
+    border-radius: 5px;
+
+}
+
+.img8{
+    
+    margin:auto;
+    margin-bottom: 100px;
+    margin-left: 250px;  
+    width:800px;
+    height: 500px;
+    border: 10px solid rgb(2, 21, 56) ;
+    border-radius: 5px;
+}
+
+.img9{
+    margin:auto;
+    margin-bottom: 100px;
+    margin-left: 250px;  
+    width:800px;
+    height: 500px;
+    border: 10px solid rgb(2, 21, 56) ;
+    border-radius: 5px;
+}
+
+
+.img10{
+    
+    margin:auto;
+    margin-bottom: 100px;
+    margin-left: 250px; 
+    width:800px;
+    height: 500px;
+    border: 10px solid rgb(2, 21, 56) ;
+    border-radius: 5px;
+
+}
+
+.new{
+    
+    background-image: linear-gradient(to right, #edc951 , #eb6841 , #cc6f75 , #7a6861 , #6dabb1);
+    font-size: 25px;
+    
+}
